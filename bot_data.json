@@ -1,0 +1,23 @@
+{
+  "user_subs": {
+    "8471866737": {
+      "code": "forever",
+      "start": "2026-05-08T19:05:03.485869",
+      "end": null,
+      "human": "навсегда"
+    }
+  },
+  "pizza_stats": {
+    "delivered": 227,
+    "cancelled": 20,
+    "total": 300
+  },
+  "user_activity": {
+    "8471866737": {
+      "20260508": true
+    },
+    "8581847345": {
+      "20260508": true
+    }
+  }
+}
